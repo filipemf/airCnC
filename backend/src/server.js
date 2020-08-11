@@ -21,8 +21,8 @@ io.on('connection', socket => {
     connectedUsers[user_id] = socket.id
 });
 
-
-mongoose.connect('mongodb+srv://marquesf:marquesf@omni-iwql4.mongodb.net/banco?retryWrites=true&w=majority', {
+//em connect coloque as suas credenciais
+mongoose.connect('//aqui, insira suas credenciais', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
