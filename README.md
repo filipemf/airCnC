@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Aircnc" src=".github/logo.png" width="250px" />
-</h1>
+# AirCnC
 
 ## Tecnologias
 
